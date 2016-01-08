@@ -1,0 +1,28 @@
+name: dharma
+favicon: null
+layout_spectrum: 0.08123067463748157
+typography_spectrum: 0.30593767180107534
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.16206391365267336
+  lightness: 0.4734459773171693
+  saturation: 0.11286405846476555
+  rhythmicContrast: 0.31322653871029615
+purpose: []
