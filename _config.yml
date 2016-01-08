@@ -2,6 +2,7 @@ name: dharma
 favicon: null
 layout_spectrum: 0.33166
 typography_spectrum: 0.32772
+title: d-h-a
 cta:
   domain: null
   bucket: null
